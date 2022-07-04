@@ -1,0 +1,44 @@
+h1{
+	color: red;
+}
+body{
+	text-align: center;
+}
+.box{
+	width: 500px;
+	border: 2px solid black;
+	box-shadow: 5px -1px 10px gray;
+}
+#container{
+	width: 500px;
+	margin: 0 auto;
+}
+.box>a{
+	margin-left: 70px;
+	color: black;
+	text-decoration: none;
+}
+.box>a:hover{
+	color: red;
+}
+button{
+	font-size: 20px;
+	margin-bottom: 20px;
+}
+p{
+	font-size: 20px;
+}
+p>a{
+	color: black;
+	text-decoration: none;
+	font-weight: bold;
+}
+p>a:hover{
+	color: red;
+}
+b>a{
+	color: black;
+}
+b>a:hover{
+	color: red;
+}
